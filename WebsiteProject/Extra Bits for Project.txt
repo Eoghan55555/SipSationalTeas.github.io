@@ -1,0 +1,17 @@
+Extra Bits for Project
+
+Sign In Form
+
+1. Made the Email allow for max local and nearly max domain
+	Max start of an email is 64 (local)
+	Max end is 255 (domain)
+2. Made the password have some requirements 
+	Upper case
+	Lower case
+	Number
+	Special character
+	8+ characters long#
+	Also allows the user to see their password
+3. Important Styling in external style sheet to override bootstrap (button)
+
+

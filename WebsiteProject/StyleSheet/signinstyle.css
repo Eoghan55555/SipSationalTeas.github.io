@@ -1,0 +1,14 @@
+/* Sign In Style Sheet */
+.signinBtn{
+    background-color: #393939 !important;
+    color: whitesmoke !important;
+    margin: 1em;
+}
+/* shows if the passwords match or not */
+.password_match {
+    border: 2px solid #06ef00;
+  }
+
+.password_no_match {
+    border: 2px solid red;
+  }

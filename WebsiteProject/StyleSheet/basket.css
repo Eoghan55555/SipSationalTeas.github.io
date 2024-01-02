@@ -1,0 +1,21 @@
+/* Basket Style Sheet */
+.container{
+    background-color: #ebebeb;
+    margin: 1em;
+    border: 2px solid #a9a9;
+    width:90vw;
+}
+.container img {
+    height: 20%;
+    width: 20%;
+}
+.removebutton{
+    background-color: #800f0f !important;
+    color: whitesmoke !important;
+    margin: 1em;
+}
+#Pricing button{
+    background-color: #393939 !important;
+    color: whitesmoke !important;
+    margin: 1em;
+}

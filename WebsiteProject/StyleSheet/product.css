@@ -1,0 +1,19 @@
+/* Product Style Sheet */
+.container{
+    background-color: #ebebeb;
+    margin: 1em;
+    min-height: 60vh;
+    border: 2px solid #a9a9;
+}
+.img-fluid{
+    float:left;
+}
+.text-container{
+    float: left;
+}
+.purchaseBtn{
+    background-color: #393939 !important;
+    color: whitesmoke !important;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
